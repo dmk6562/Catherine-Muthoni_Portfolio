@@ -385,3 +385,11 @@ a:focus, a:hover, a:active {
   background-color: #1a252f;
   border-color: #1a252f;
 }
+
+#social {
+  width: 80px;
+  height: 80px;
+  margin-top: 8px;
+  margin-right: 5px;
+  display: center;
+}
